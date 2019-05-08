@@ -1,5 +1,6 @@
 # SmartNinja Python Course
-## Exercise 1
+
+#Exercise 1
 
 For the first exercise let's continue the mood checking program from before. Ask user to tell you what mood s/he is in:
 
